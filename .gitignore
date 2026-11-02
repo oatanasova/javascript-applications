@@ -138,3 +138,4 @@ dist
 #Custom by Me
 Labs/
 *.zip
+.vscode/settings.json
