@@ -1,5 +1,3 @@
-// window.onload = solution;
-
 async function solution() {
     const BASE_URL = 'http://localhost:3030/jsonstore/advanced/articles/'
     const main = document.getElementById('main');

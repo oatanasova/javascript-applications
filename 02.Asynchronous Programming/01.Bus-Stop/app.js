@@ -11,7 +11,6 @@ async function getInfo() {
 
     try {
         let response = await fetch(BASE_URL + input);
-
         let data = await response.json();
 
         stopNameRef.textContent = data.name;
